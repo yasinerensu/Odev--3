@@ -3,7 +3,7 @@
     padding: 10;
     background-color: burlywood;}
 
-section{
+article{
     display: flex;
     justify-content: center;
     align-items: center;
